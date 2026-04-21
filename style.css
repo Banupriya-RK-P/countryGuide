@@ -21,6 +21,9 @@ body {
   width: 100%;
   max-width: 500px;
 }
+.main_heading{
+    color: beige;
+}
 
 
 .country_guide_container {
